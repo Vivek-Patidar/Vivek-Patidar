@@ -16,9 +16,9 @@ Currently working at **MagicBricks** on AI integrations, RAG pipelines, and dist
 
 | Rank | Skills & Technologies |
 |-----:|-----------------------|
-| 1 | Python, PySpark, SQL, C/C++ |
+| 1 | C/C++, JavaScript, React, Node.js, Python, PySpark, SQL |
 | 2 | Apache Spark, Hadoop, Iceberg |
-| 3 | Docker, Kubernetes, Terraform |
+| 3 | Docker, Kubernetes, Datalakes |
 
 </details>
 
