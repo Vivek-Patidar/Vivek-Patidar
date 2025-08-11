@@ -27,14 +27,14 @@ Currently working at **MagicBricks** on AI integrations, RAG pipelines, and dist
 <details>
 <summary>💼 Experience</summary>
 
-**Software Engineer – MagicBricks** *(June 2024 – Present)*  
+**Software Engineer – MagicBricks** *(June 2025 – Present)*  
 - Migrated monoliths to scalable distributed systems (HDFS + Iceberg), reducing ML pipeline execution times by **87.5%**.  
 - Optimized **RAG pipelines** & **Agentic AI systems** with metadata filtering & distributed DBs.  
 - Designed lightweight AI integrations & REST APIs for TTS models, Email Recsys, and Sipro.  
 - Fine-tuned multilingual **TTS models** for improved personalization in AI Caller applications.  
 - Implemented **MLOps workflows** with Docker, Kubernetes, Terraform, and AWS.
 
-**Software Engineer Intern – Shorthills AI** *(May 2024 – July 2024)*  
+**Software Engineer Intern – Shorthills AI** *(Jan 2025 – May 2025)*  
 - Built end-to-end **RAG solutions** with SentenceTransformers & FAISS.  
 - Developed **enterprise Agentic chatbots** for job assistance & automated scraping.  
 - Productionized ML models with logging, testing, and debugging in distributed environments.
